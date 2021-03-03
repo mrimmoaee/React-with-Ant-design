@@ -4,21 +4,21 @@ import { Row, Col } from "antd";
 const items = [
   {
     key: "1",
-    icon: <i class='fas fa-chart-line'></i>,
+    icon: <i className='fas fa-chart-line'></i>,
     title: "High Performance",
     content:
       "Designing reliable, complex and dependable software systems is a continuous challenge to the software engineering community.",
   },
   {
     key: "2",
-    icon: <i class='fas fa-palette'></i>,
+    icon: <i className='fas fa-palette'></i>,
     title: "Flat Design",
     content:
       "Flat design is a minimalist UI design genre which is currently used in graphical user interfaces for apps and websites.",
   },
   {
     key: "3",
-    icon: <i class='fas fa-code'></i>,
+    icon: <i className='fas fa-code'></i>,
     title: "Simplified Workflow",
     content:
       "Every board can represent one or more projects; however, the Simplified Workflow can only be used if a board represents a single project.",
