@@ -13,7 +13,7 @@ const { Meta } = Card;
 
 function AppFeature() {
   return (
-    <div className='block featureBlock bgGray'>
+    <div id='feature' className='block featureBlock bgGray'>
       <div className='container-fluid'>
         <div className='titleHolder'>
           <h2>Types of Modern UI Design</h2>
