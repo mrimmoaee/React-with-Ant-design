@@ -20,7 +20,7 @@ function AppFeature() {
           <p>Make design simpler</p>
         </div>
         <Row gutter={[16, 16]}>
-          <Col span={8}>
+          <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             {" "}
             <Card
               hoverable
@@ -29,7 +29,7 @@ function AppFeature() {
               <Meta title='Modern Website Design' />
             </Card>
           </Col>
-          <Col span={8}>
+          <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             {" "}
             <Card
               hoverable
@@ -38,7 +38,7 @@ function AppFeature() {
               <Meta title='Simplistics Design' />
             </Card>
           </Col>
-          <Col span={8}>
+          <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             {" "}
             <Card
               hoverable
@@ -47,7 +47,7 @@ function AppFeature() {
               <Meta title='Modern Website Design' />
             </Card>
           </Col>
-          <Col span={8}>
+          <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             {" "}
             <Card
               hoverable
@@ -56,7 +56,7 @@ function AppFeature() {
               <Meta title='Beautiful Colorful Design' />
             </Card>
           </Col>
-          <Col span={8}>
+          <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             {" "}
             <Card
               hoverable
@@ -65,7 +65,7 @@ function AppFeature() {
               <Meta title='Modern Website Design' />
             </Card>
           </Col>
-          <Col span={8}>
+          <Col xs={{ span: 24 }} sm={{ span: 12 }} md={{ span: 8 }}>
             {" "}
             <Card
               hoverable
