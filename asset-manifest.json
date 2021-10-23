@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-with-Ant-design/static/css/main.3dc9108a.chunk.css",
-    "main.js": "/React-with-Ant-design/static/js/main.84e1b6ce.chunk.js",
-    "main.js.map": "/React-with-Ant-design/static/js/main.84e1b6ce.chunk.js.map",
+    "main.css": "/React-with-Ant-design/static/css/main.844e114e.chunk.css",
+    "main.js": "/React-with-Ant-design/static/js/main.73b75a3b.chunk.js",
+    "main.js.map": "/React-with-Ant-design/static/js/main.73b75a3b.chunk.js.map",
     "runtime-main.js": "/React-with-Ant-design/static/js/runtime-main.d4c73a6e.js",
     "runtime-main.js.map": "/React-with-Ant-design/static/js/runtime-main.d4c73a6e.js.map",
     "static/css/2.1e58ee36.chunk.css": "/React-with-Ant-design/static/css/2.1e58ee36.chunk.css",
-    "static/js/2.6e919bec.chunk.js": "/React-with-Ant-design/static/js/2.6e919bec.chunk.js",
-    "static/js/2.6e919bec.chunk.js.map": "/React-with-Ant-design/static/js/2.6e919bec.chunk.js.map",
+    "static/js/2.b7af30ca.chunk.js": "/React-with-Ant-design/static/js/2.b7af30ca.chunk.js",
+    "static/js/2.b7af30ca.chunk.js.map": "/React-with-Ant-design/static/js/2.b7af30ca.chunk.js.map",
     "static/js/3.aa18f1c5.chunk.js": "/React-with-Ant-design/static/js/3.aa18f1c5.chunk.js",
     "static/js/3.aa18f1c5.chunk.js.map": "/React-with-Ant-design/static/js/3.aa18f1c5.chunk.js.map",
     "index.html": "/React-with-Ant-design/index.html",
     "static/css/2.1e58ee36.chunk.css.map": "/React-with-Ant-design/static/css/2.1e58ee36.chunk.css.map",
-    "static/css/main.3dc9108a.chunk.css.map": "/React-with-Ant-design/static/css/main.3dc9108a.chunk.css.map",
-    "static/js/2.6e919bec.chunk.js.LICENSE.txt": "/React-with-Ant-design/static/js/2.6e919bec.chunk.js.LICENSE.txt",
+    "static/css/main.844e114e.chunk.css.map": "/React-with-Ant-design/static/css/main.844e114e.chunk.css.map",
+    "static/js/2.b7af30ca.chunk.js.LICENSE.txt": "/React-with-Ant-design/static/js/2.b7af30ca.chunk.js.LICENSE.txt",
     "static/media/advanced-option.84c7d069.jpg": "/React-with-Ant-design/static/media/advanced-option.84c7d069.jpg",
     "static/media/App.css": "/React-with-Ant-design/static/media/bg.0bd906dd.png",
     "static/media/clean-design.728069da.jpg": "/React-with-Ant-design/static/media/clean-design.728069da.jpg",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.d4c73a6e.js",
     "static/css/2.1e58ee36.chunk.css",
-    "static/js/2.6e919bec.chunk.js",
-    "static/css/main.3dc9108a.chunk.css",
-    "static/js/main.84e1b6ce.chunk.js"
+    "static/js/2.b7af30ca.chunk.js",
+    "static/css/main.844e114e.chunk.css",
+    "static/js/main.73b75a3b.chunk.js"
   ]
 }
